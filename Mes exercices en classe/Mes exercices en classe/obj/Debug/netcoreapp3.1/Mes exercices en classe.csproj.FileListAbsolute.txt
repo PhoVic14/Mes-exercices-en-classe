@@ -1,0 +1,13 @@
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\obj\Debug\netcoreapp3.1\Mes exercices en classe.csprojAssemblyReference.cache
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\obj\Debug\netcoreapp3.1\Mes exercices en classe.AssemblyInfoInputs.cache
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\obj\Debug\netcoreapp3.1\Mes exercices en classe.AssemblyInfo.cs
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\obj\Debug\netcoreapp3.1\Mes exercices en classe.csproj.CoreCompileInputs.cache
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\bin\Debug\netcoreapp3.1\Mes exercices en classe.exe
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\bin\Debug\netcoreapp3.1\Mes exercices en classe.deps.json
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\bin\Debug\netcoreapp3.1\Mes exercices en classe.runtimeconfig.json
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\bin\Debug\netcoreapp3.1\Mes exercices en classe.runtimeconfig.dev.json
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\bin\Debug\netcoreapp3.1\Mes exercices en classe.dll
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\bin\Debug\netcoreapp3.1\Mes exercices en classe.pdb
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\obj\Debug\netcoreapp3.1\Mes exercices en classe.dll
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\obj\Debug\netcoreapp3.1\Mes exercices en classe.pdb
+C:\Users\180229\Desktop\Mes exercices en classe\Mes exercices en classe\obj\Debug\netcoreapp3.1\Mes exercices en classe.genruntimeconfig.cache
